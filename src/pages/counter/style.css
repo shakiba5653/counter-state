@@ -1,0 +1,21 @@
+body {
+    direction: ltr;
+    margin: 0;
+    background-color: #151515;
+    color: #fff;
+}
+
+ul {
+    list-style: none;
+}
+
+.countNum {
+    text-align: center;
+    font-size: 30px;
+    margin-top: 50px;
+    display: block;
+}
+
+.negative {
+    color: red;
+}
